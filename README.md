@@ -1,6 +1,6 @@
 # CSE 434 - Public Course Materials
 
-Welcome to the public repository for **CSE 434: [Course Title]**. This repository contains publicly available materials for students enrolled in the course. You will find lecture notes, assignments, and additional resources that will be updated throughout the semester.
+Welcome to the public repository for **CSE 434: Generative AI**. This repository contains publicly available materials for students enrolled in the course. You will find lecture notes, assignments, and additional resources that will be updated throughout the semester.
 
 ## Repository Structure
 
