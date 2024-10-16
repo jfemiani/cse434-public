@@ -5,7 +5,6 @@ Welcome to the public repository for **CSE 434: [Course Title]**. This repositor
 ## Repository Structure
 
 - **lectures/**: Contains slides and notes for each lecture.
-- **assignments/**: Homework and project instructions.
 - **resources/**: Supplementary materials, readings, and reference documents.
 
 ## How to Use
@@ -20,7 +19,6 @@ Welcome to the public repository for **CSE 434: [Course Title]**. This repositor
     git pull origin main
     ```
 
-3. **Assignments**: Submission instructions for assignments will be provided within the respective folders. Always check deadlines and updates here.
 
 ## Issues and Contributions
 
