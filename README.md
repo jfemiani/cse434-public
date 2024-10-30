@@ -2,8 +2,33 @@
 
 Welcome to the public repository for **CSE 434: Generative AI**. This repository contains publicly available materials for students enrolled in the course. You will find lecture notes, assignments, and additional resources that will be updated throughout the semester.
 
-## Repository Structure
+## Lectures
 
+| Date | Description | Module|
+|-|-|-|
+| -- |  Introduction to Generative AI| 
+| -- |  Fundamentals of Prompt Engineering|
+| -- |  Web APIs|
+| -- |  LLM Pipelines & LangChain |
+| -- | (Mid Term)
+| -- |  N-Grams|
+| Oct 30 | Pixel Based Texture Synthesis (Demo)| <small>Module 2.2 : Texture Sysnthesis</small> |
+
+
+
+
+## Assigments
+| Due Date | Name | Description |
+|-|-|-|
+|?? | [Lab-0](assignments/lab-0/lab-0.md) | System Setup |
+|?? | [Lab-1](assignments/lab-1/lab-1.ipynb) | Using the Web APIs|
+|Nov 4 | [Lab-2](assignments/lab-2/lab-2.ipynb)| N-Gram Evaluation|
+
+
+
+
+## Repository Structure
+- **assignments/**: Contains handout materials for assignments.
 - **lectures/**: Contains slides and notes for each lecture.
 - **resources/**: Supplementary materials, readings, and reference documents.
 
