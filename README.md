@@ -14,9 +14,9 @@ Welcome to the public repository for **CSE 434: Generative AI**. This repository
 | Week 6 | Sep 30 (Mon)| [Advanced Techniques for Text Generation with LangChain](lectures/week-06/week-06-advanced-langchain.md) |
 | Week 7 | Oct 7 (Mon) | [Midterm 1](lectures/week-07/week-07-midterm-1.md)   |
 | Week 8 | Oct 14 (Mon)| [Vector Databases](lectures/week-08/week-08-vector-databases.md)       |
-| Week 9 | Oct 21 (Mon)| [Autonomous Agents with Memory and Tools](lectures/week-09/week-09-n-gram-models-and-smoothing-techniques.md) |
-| Week 10| Oct 28 (Mon)| [N-gram Models and Texture Synthesis](lectures/week-10/week-10-lstm-architectures.md)               |
-| Week 11| Nov 4 (Mon) | [RNNs, LSTMs, and Transformers](lectures/week-11/week-11-diffusion-models-and-gans.md)        |
+| Week 9 | Oct 21 (Mon)| [Autonomous Agents with Memory and Tools](lectures/week-09/week-09-agents.md) |
+| Week 10| Oct 28 (Mon)| [N-gram Models and Texture Synthesis](lectures/week-10/week-10-ngrams-and-texture-synthesis.md)               |
+| Week 11| Nov 4 (Mon) | [RNNs, LSTMs, and Transformers](lectures/week-11/week-11-rnns-lstms-gans.md)        |
 | Week 12| Nov 11 (Mon)| [Diffusion Models and GANs](lectures/week-12/week-12-autonomous-agents-and-pipelines.md)  |
 | Week 13| Nov 18 (Mon)| [Evaluating AI Models](lectures/week-13/week-13-evaluating-ai-models.md)             |
 | Week 14| Nov 25 (Mon)| [Midterm 2 (Modules 2.1 to 2.6)](lectures/week-14/week-14-midterm-2-modules-2.1-to-2.6.md)   |
