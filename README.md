@@ -20,7 +20,7 @@
 | Week 8 | Oct 14 (Mon)| [Vector Databases](lectures/week-08/week-08-vector-databases.md)       |
 | Week 9 | Oct 21 (Mon)| [Autonomous Agents with Memory and Tools](lectures/week-09/week-09-agents.md) |
 | Week 10| Oct 28 (Mon)| [N-gram Models and Texture Synthesis](lectures/week-10/week-10-ngrams-and-texture-synthesis.md)               |
-| Week 11| Nov 4 (Mon) | [RNNs, LSTMs, and Transformers](<lectures/week-11/01. week-11-rnns-lstms-gans.md>)        |
+| Week 11| Nov 4 (Mon) | [RNNs, LSTMs, and Transformers](<lectures/week-11/week-11-rnns-lstms-gans.md>)        |
 | Week 12| Nov 11 (Mon)| [Diffusion Models and GANs](lectures/week-12/week-12-vaes-gans-diffusion.md)  |
 | Week 13| Nov 18 (Mon)| [Evaluating AI Models](lectures/week-13/week-13-evaluating-ai-models.md)             |
 | Week 14| Nov 25 (Mon)| [Midterm 2 (Modules 2.1 to 2.6)](lectures/week-14/week-14-midterm-2-modules-2.1-to-2.6.md)   |
