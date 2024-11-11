@@ -9,3 +9,4 @@
 
 ## Demos/Code
 - [Demo](demo-autoregressive-lstms-and-transformers.ipynb)
+- -[Colab version](https://colab.research.google.com/drive/1Rfj_PB-kSIHZSxTuVPMWVmk5g_gY3wDy)
