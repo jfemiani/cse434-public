@@ -1,6 +1,10 @@
 # CSE 434 - Public Course Materials
 
-Welcome to the public repository for **CSE 434: Generative AI**. This repository contains publicly available materials for students enrolled in the course. You will find lecture notes, assignments, and additional resources that will be updated throughout the semester.
+
+## Textbooks
+- [GDL (Generative Deep Learning)](https://go.oreilly.com/ohiolinkmiami/https://learning.oreilly.com/library/view/generative-deep-learning/9781098134174/)
+- [PEGA (Prompt Engineering for Generative AI)](https://go.oreilly.com/ohiolinkmiami/https://learning.oreilly.com/library/view/prompt-engineering-for/9781098153427/) 
+
 
 ## Lectures
 
@@ -16,8 +20,8 @@ Welcome to the public repository for **CSE 434: Generative AI**. This repository
 | Week 8 | Oct 14 (Mon)| [Vector Databases](lectures/week-08/week-08-vector-databases.md)       |
 | Week 9 | Oct 21 (Mon)| [Autonomous Agents with Memory and Tools](lectures/week-09/week-09-agents.md) |
 | Week 10| Oct 28 (Mon)| [N-gram Models and Texture Synthesis](lectures/week-10/week-10-ngrams-and-texture-synthesis.md)               |
-| Week 11| Nov 4 (Mon) | [RNNs, LSTMs, and Transformers](lectures/week-11/week-11-rnns-lstms-gans.md)        |
-| Week 12| Nov 11 (Mon)| [Diffusion Models and GANs](lectures/week-12/week-12-autonomous-agents-and-pipelines.md)  |
+| Week 11| Nov 4 (Mon) | [RNNs, LSTMs, and Transformers](<lectures/week-11/01. week-11-rnns-lstms-gans.md>)        |
+| Week 12| Nov 11 (Mon)| [Diffusion Models and GANs](lectures/week-12/week-12-vaes-gans-diffusion.md)  |
 | Week 13| Nov 18 (Mon)| [Evaluating AI Models](lectures/week-13/week-13-evaluating-ai-models.md)             |
 | Week 14| Nov 25 (Mon)| [Midterm 2 (Modules 2.1 to 2.6)](lectures/week-14/week-14-midterm-2-modules-2.1-to-2.6.md)   |
 | Week 15| Dec 2 (Mon) | [Capstone Project Presentations](lectures/week-15/week-15-capstone-project-presentations.md)   |
